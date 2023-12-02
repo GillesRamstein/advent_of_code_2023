@@ -23,6 +23,7 @@
         packages = [
           # C
           gcc13
+          clang-tools_16
 
           # Python
           (mkPoetryEnv {
